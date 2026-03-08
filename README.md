@@ -183,7 +183,8 @@ Based on the analysis:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1353" height="794" alt="image" src="https://github.com/user-attachments/assets/1d4d6ecf-ce98-4b9e-8373-088f89b0fc6d" />
+
 
 ---
 
