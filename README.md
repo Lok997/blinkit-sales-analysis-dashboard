@@ -1,8 +1,5 @@
-Lokesh, you’re right to fix this. If your dashboard was built in **Microsoft Power BI**, your README **must not say Excel**. Recruiters notice that immediately. I rewrote your README to be **cleaner, shorter, and more portfolio-friendly**.
 
-You can **replace your entire README with this**:
 
----
 
 # 🛒 Blinkit Sales Analysis Dashboard (Power BI)
 
@@ -180,21 +177,12 @@ Based on the analysis:
 
 This project demonstrates how **Power BI dashboards can transform raw sales data into actionable business insights**. By analyzing product performance, outlet distribution, and customer ratings, the dashboard enables stakeholders to quickly understand sales trends and support data-driven decision making.
 
----
 
-💡 **Honest advice for your GitHub portfolio**
-
-Your repo will look **much more professional** if you also add:
-
-```
 Blinkit-Sales-Analysis-PowerBI
 │
 ├── dataset
 ├── blinkit_dashboard.pbix
 ├── dashboard_screenshot.png
 └── README.md
-```
 
----
 
-If you want, I can also help you **upgrade this README to a “portfolio-level” README (the type recruiters see in strong data analyst GitHub profiles)**. It will include badges, visuals, and project highlights.
